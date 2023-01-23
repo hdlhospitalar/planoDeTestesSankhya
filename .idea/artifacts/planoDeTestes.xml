@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="planoDeTestes">
+    <output-path>$PROJECT_DIR$/out/artifacts/planoDeTestes</output-path>
+    <root id="archive" name="planoDeTestes.jar">
+      <element id="module-output" name="planoDeTeste" />
+    </root>
+  </artifact>
+</component>
